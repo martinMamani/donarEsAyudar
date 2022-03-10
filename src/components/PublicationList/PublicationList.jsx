@@ -7,7 +7,7 @@ const PublicationList = ({donation}) => {
        {
            donation.map((donor)=>{
                return(
-                   <Publication donor={donor}></Publication>
+                   <Publication donor={donor} key={donor.donor}></Publication>
                )
            })
        }

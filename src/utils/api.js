@@ -27,7 +27,7 @@ const donors =[
         donor:"Andres,Carlos",
         factor:"O+",
         amountDonors:2,
-        hospital:"Hospital Evita"
+        hospital:"Hospital Lanus"
        },
        {
         donor:"Roberto,Carlos",
