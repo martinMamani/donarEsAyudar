@@ -1,0 +1,17 @@
+.publication{
+    background-image: url("./../../assets/tabla.png");
+    background-size: 400px;
+    background-position: center;
+    float: left;
+    margin: 10px;
+    height: 390px;
+    width: 315px;
+    padding-bottom: 10px;
+    transition: all 1s;
+}
+.publication:hover{
+    transform:scale(1.1)
+}
+button{
+    margin: 0 0 0 50px;
+}
